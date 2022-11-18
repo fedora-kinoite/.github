@@ -8,7 +8,7 @@ See the [Fedora Kinoite documentation](https://docs.fedoraproject.org/en-US/fedo
 
 ## Dicussions
 
-See [#fedora-kde:matrix.org on Matrix](https://matrix.to/#/#fedora-kde:matrix.org) or libera.chat/fedora-kde on IRC (irc://irc.libera.chat/fedora-kde).
+See [#kde:fedoraproject.org on Matrix](https://matrix.to/#/#kde:fedoraproject.org) or libera.chat/fedora-kde on IRC (irc://irc.libera.chat/fedora-kde).
 
 ## Reporting issues
 
