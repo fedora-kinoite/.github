@@ -19,7 +19,7 @@ Please report issues in the [Fedora KDE SIG issue tracker](https://pagure.io/fed
 ## Contributing
 
 - [How to get involved](https://kinoite.fedoraproject.org/get-involved/)
-- [rpm-ostree manifests used to build Fedora Kinoite (and Fedora Silverblue)](https://pagure.io/workstation-ostree-config)
+- [rpm-ostree manifests used to build Fedora Kinoite](https://pagure.io/workstation-ostree-config)
 - [Source for the documentation](https://pagure.io/fedora-kde/kinoite-docs)
 - [Source for the website](https://pagure.io/fedora-kde/kinoite-site)
 - Projects on Fedora Weblate for translations:
