@@ -6,7 +6,7 @@ See the [Fedora Kinoite website](https://kinoite.fedoraproject.org/).
 
 See the [Fedora Kinoite documentation](https://docs.fedoraproject.org/en-US/fedora-kinoite/).
 
-## Dicussions
+## Discussions
 
 - The [#kde:fedoraproject.org on Matrix](https://matrix.to/#/#kde:fedoraproject.org) or libera.chat/fedora-kde on IRC (irc://irc.libera.chat/fedora-kde) channels. The channels are bridged: joining either one will let you talk to everyone.
 - The [#kinoite tag on ask.fedoraproject.org](https://ask.fedoraproject.org/tag/kinoite).
