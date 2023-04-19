@@ -9,6 +9,7 @@ See the [Fedora Kinoite documentation](https://docs.fedoraproject.org/en-US/fedo
 ## Getting help and discussion spaces
 
 - The [#kde:fedoraproject.org channel on Matrix](https://matrix.to/#/#kde:fedoraproject.org) or libera.chat/fedora-kde on IRC (irc://irc.libera.chat/fedora-kde) channels. The channels are bridged: joining either one will let you talk to everyone.
+- The [#kinoite:fedoraproject.org channel on Matrix](https://matrix.to/#/#kinoite:fedoraproject.org). The channel is Matrix only and not bridged to IRC.
 - Ask questions using the [#kinoite tag on discussion.fedoraproject.org](https://discussion.fedoraproject.org/tag/kinoite).
 - Start development discussions using the [#kinoite-team tag on discussion.fedoraproject.org](https://discussion.fedoraproject.org/tag/kinoite-team).
 
