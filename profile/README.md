@@ -1,6 +1,6 @@
 # Fedora Kinoite
 
-See the [Fedora Kinoite website](https://kinoite.fedoraproject.org/).
+See the [Fedora Kinoite website](https://fedoraproject.org/kinoite/).
 
 ## Documentation
 
@@ -22,10 +22,8 @@ Please report issues in the [Fedora KDE SIG issue tracker](https://pagure.io/fed
 - [How to get involved](https://kinoite.fedoraproject.org/get-involved/)
 - [rpm-ostree manifests used to build Fedora Kinoite](https://pagure.io/workstation-ostree-config)
 - [Source for the documentation](https://pagure.io/fedora-kde/kinoite-docs)
-- [Source for the website](https://pagure.io/fedora-kde/kinoite-site)
-- Projects on Fedora Weblate for translations:
-  - [Documentation](https://translate.fedoraproject.org/projects/fedora-docs-l10n-fedora-kinoite/)
-  - [Website](https://translate.fedoraproject.org/projects/fedora-kde/kinoite-site/)
+- [Source for the website](https://gitlab.com/fedora/websites-apps/fedora-websites/fedora-websites-3.0)
+- [Translations for the documentation](https://translate.fedoraproject.org/projects/fedora-docs-l10n-fedora-kinoite/)
 
 ## Related projects
 
