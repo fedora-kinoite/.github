@@ -8,8 +8,8 @@ See the [Fedora Kinoite documentation](https://docs.fedoraproject.org/en-US/fedo
 
 ## Getting help and discussion spaces
 
-- The [#kde:fedoraproject.org channel on Matrix](https://matrix.to/#/#kde:fedoraproject.org) or libera.chat/fedora-kde on IRC (irc://irc.libera.chat/fedora-kde) channels. The channels are bridged: joining either one will let you talk to everyone.
-- The [#kinoite:fedoraproject.org channel on Matrix](https://matrix.to/#/#kinoite:fedoraproject.org). The channel is Matrix only and not bridged to IRC.
+- The [#kde:fedoraproject.org channel on Matrix](https://matrix.to/#/#kde:fedoraproject.org).
+- The [#kinoite:fedoraproject.org channel on Matrix](https://matrix.to/#/#kinoite:fedoraproject.org).
 - Ask questions using the [#kinoite tag on discussion.fedoraproject.org](https://discussion.fedoraproject.org/tag/kinoite).
 - Start development discussions using the [#kinoite-team tag on discussion.fedoraproject.org](https://discussion.fedoraproject.org/tag/kinoite-team).
 
@@ -29,6 +29,8 @@ Please report issues in the [Fedora KDE SIG issue tracker](https://pagure.io/fed
 
 The following projects use the same technologies as Fedora Kinoite:
 
-- [Fedora Silverblue](https://silverblue.fedoraproject.org/)
-- [Fedora IoT](https://getfedora.org/iot/)
-- [Fedora CoreOS](https://getfedora.org/coreos)
+- [Fedora Silverblue](https://fedoraproject.org/silverblue/)
+- [Fedora Sericea](https://fedoraproject.org/sericea/)
+- [Fedora Onyx](https://fedoraproject.org/onyx/)
+- [Fedora IoT](https://fedoraproject.org/iot/)
+- [Fedora CoreOS](https://fedoraproject.org/coreos/)
